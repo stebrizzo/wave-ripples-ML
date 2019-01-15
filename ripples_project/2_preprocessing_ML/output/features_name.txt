@@ -1,0 +1,1 @@
+\lambda1/3 Orbital Velocity 1/3 Orbital Excursion 1/3 Semi-Orbital ExcursionTD_{50}sTemperature\nu \nu_d\rho_w PSUh0 flume1 channel2 piston3 osc4 field5 tunnel6 tank7 basin8 ductregular/irregular
