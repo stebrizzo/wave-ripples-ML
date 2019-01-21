@@ -25,9 +25,9 @@ Each folder contains codes to do these operations:
 -- How to run the experiment --
 ----------------------------------------------------------------------------------------------------------
 In the main folder (ripples_project) are contained two useful MATLAB codes:
-  CLEARALL.m : if executed with MATLAB, delete all old experiment results;
-  CLOSEALL.m : if executed with MATLAB, run all the experiment.
-Both CLEARALL.m and CLOSEALL.m request to insert 1 if you have a Linux system, or 0 if you have a Windows system.
+  CLEARALL.m : if executed with MATLAB, delete all the old experiment results;
+  RUNALL.m   : if executed with MATLAB, run all the experiment.
+Both CLEARALL.m and RUNALL.m request to insert 1 if you have a Linux system, or 0 if you have a Windows system.
 
 
 -- Other informations --
