@@ -18,7 +18,7 @@ Each folder contains a main.m file, a bunch of useful functions and two folders 
 Each folder contains codes to do these operations:
   1 & 2 : preprocessing on the dataset (deleting features or data, one-hot encoding, ...);
   3     : prepare the datasets for 5-fold cross validation;
-  4     : train my model (RLS with Gaussian kernel) finding the best values for lambda (the regularizer) and sigma (the   kernel's tuning parameter) and then calculates the averaged MSE on the validation sets;
+  4     : train my model (RLS with Gaussian kernel) finding the best values for lambda (the regularizer) and sigma (the   kernel's tuning parameter) and then calculates the averaged MSE on the test sets;
   5     : MSE on the hole dataset given by the empirical formula is calculated in order to compare my model with the empirical formulas.
 
 
